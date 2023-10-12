@@ -1,4 +1,4 @@
-<h1 align="center">Hangman Game 🤔</h1>
+<h1 align="center">Hangman Game 🙋‍♂️</h1>
 
 <p align="center">
   <a href="#license"><img src="https://img.shields.io/badge/License-MIT-blue" alt="License"></a>
