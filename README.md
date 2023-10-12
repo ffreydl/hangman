@@ -8,6 +8,8 @@
 
 <p align="center"><b>A simple, yet engaging hangman game written in Java.</b></p>
 
+<br>
+
 <p align="center">
   <img src="https://github.com/ffreydl/hangman/blob/main/assets/img/preview.png?raw=true" alt="Hangman">
 </p>
